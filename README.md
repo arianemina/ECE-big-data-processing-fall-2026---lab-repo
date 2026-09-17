@@ -2,6 +2,6 @@
 
 - Group 1
 - project/lab AIRED Ariane Mina, git username : arianemina
-- project/lab member 2, git username
-- project/lab member 3, git username
+- project/lab Halima ghazi, git username : Halima-Ghazi
+- project/lab Ambrine Senoussi, git username : ambrnsnssi
 
